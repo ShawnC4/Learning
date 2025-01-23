@@ -47,6 +47,10 @@ Learning materials I have gone through and practiced.
 | [Langchain Crashcourse](https://youtu.be/MlK6SIjcjE8?si=yMZXQki4TiOqwuHE) | ⬜ |
 | [GenAI Essentials](https://youtu.be/nJ25yl34Uqw?si=MCWSFaGMH2ehoie3) | ⬜ |
 
+## Datacamp
+| Links | Completed |
+| ---------- | ---------- |
+
 ## Research Papers GenAI
 | Paper | Read |
 | ---------- | ---------- |
