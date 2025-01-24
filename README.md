@@ -19,10 +19,17 @@ Learning materials I have gone through and practiced.
 | Hackerank: 1 month preparation kit  | Ongoing  |
 | NeetCode: neetcode 150 | Ongoing |
 
+## Data Science
+| Link | Completed |
+| ---------- | ---------- |
+| [DS with python](https://youtu.be/yGN28LY5VuA?si=EmVd54eHMgvT639-) | ⬜ |
+| [Tiktok DS](https://youtu.be/E6B3uWF-V7w?si=zNCWVV6fai5ZFjQk) | ⬜ |
+
 ## Machine Learning
 | Source | Completed |
 | ---------- | ---------- |
 | [Machine Learning for Everyone](https://youtu.be/i_LwzRVP7bg?si=ENFeXXCNNljRw3jp) | ✅ |
+| [Number plate Recognition](https://youtu.be/0-4p_QgrdbE?si=83xCusgKGTBIbhKP) | ⬜ |
 
 ## Deep Learning projects
 | Link | Completed |
