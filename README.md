@@ -22,7 +22,7 @@ Learning materials I have gone through and practiced.
 ## Data Science
 | Link | Completed |
 | ---------- | ---------- |
-| [DS with python](https://youtu.be/yGN28LY5VuA?si=EmVd54eHMgvT639-) | ⬜ |
+| [DS with python](https://youtu.be/yGN28LY5VuA?si=EmVd54eHMgvT639-) | Ongoing |
 | [Tiktok DS](https://youtu.be/E6B3uWF-V7w?si=zNCWVV6fai5ZFjQk) | ⬜ |
 
 ## Machine Learning
