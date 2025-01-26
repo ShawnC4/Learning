@@ -16,7 +16,7 @@ Learning materials I have gone through and practiced.
 | ------------- | ------------- |
 | [Roadmap](https://neetcode.io/roadmap) |  |
 | Hackerrank: 1 week preparation kit  | ✅  |
-| Hackerank: 1 month preparation kit  | Ongoing  |
+| [Hackerank: 1 month preparation kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit)  | Ongoing  |
 | [NeetCode: neetcode 150](https://neetcode.io/roadmap) | Ongoing |
 | [DataLemur DS qns](https://datalemur.com/questions) | ⬜ |
 
