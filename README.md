@@ -23,7 +23,7 @@ Learning materials I have gone through and practiced.
 ## Data Science
 | Link | Completed |
 | ---------- | ---------- |
-| [DS with python](https://youtu.be/yGN28LY5VuA?si=EmVd54eHMgvT639-) | Ongoing |
+| [DS with python](https://youtu.be/yGN28LY5VuA?si=EmVd54eHMgvT639-) | ✅ |
 | [Data Analyst Bootcamp](https://youtu.be/wQQR60KtnFY?si=0Iib8YF_jPJE8ej7) | ⬜ |
 | [Tiktok DS](https://youtu.be/E6B3uWF-V7w?si=zNCWVV6fai5ZFjQk) | ⬜ |
 
@@ -32,6 +32,7 @@ Learning materials I have gone through and practiced.
 | ---------- | ---------- |
 | [Machine Learning for Everyone](https://youtu.be/i_LwzRVP7bg?si=ENFeXXCNNljRw3jp) | ✅ |
 | [Number plate Recognition](https://youtu.be/0-4p_QgrdbE?si=83xCusgKGTBIbhKP) | ⬜ |
+| [Fullstack ML app workflow](https://www.youtube.com/playlist?list=PLgNJO2hghbmjNrHZqplNMEpsW-QLFdvJV) | ⬜ |
 
 ## Deep Learning projects
 | Link | Completed |
