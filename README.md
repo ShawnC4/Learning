@@ -48,6 +48,7 @@ Learning materials I have gone through and practiced.
 | [NLP playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&si=cMMp5l7nEdXXR3xJ) | ✅ |
 | [Stanford CS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) | ⬜ |
 | [Stanford CS224N: NLP Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&si=hFr4J-Qa_bvVvtU-) | ⬜ |
+| [Sentiment Analysis](https://youtu.be/szczpgOEdXs?si=Vz3PBNei57BmSDNl) | ⬜ |
 
 ## LLMs
 | Source | Completed |
