@@ -1,8 +1,5 @@
 # Learning
 Learning materials I have gone through and practiced.
-
-# LOG
-
 [Implement Deep learning papers](https://youtu.be/GJJc1t0rtSU?si=O4GeJM8GDsN8ku5C)
 
 [?1](https://youtu.be/hGCECK02cOQ?si=fk6sm8_QtWPMm111)
@@ -10,6 +7,8 @@ Learning materials I have gone through and practiced.
 [?2](https://youtu.be/O096wOHdldM?si=woP91kRrEMKqpAsD)
 
 [Data structures in C++](https://youtu.be/B31LgI4Y4DQ?si=0RaDDxsZ7LeKHDEN)
+
+# LOG
 
 ## Coding Problems
 | Problems  | Completed |
