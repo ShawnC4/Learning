@@ -1,5 +1,5 @@
 # Learning
-Learning materials I have gone through and practiced.
+Learning materials
 
 [Implement Deep learning papers](https://youtu.be/GJJc1t0rtSU?si=O4GeJM8GDsN8ku5C)
 
