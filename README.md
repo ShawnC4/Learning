@@ -24,9 +24,9 @@ Learning materials
 | Link | Completed |
 | ---------- | ---------- |
 | [DS with python](https://youtu.be/yGN28LY5VuA?si=EmVd54eHMgvT639-) | ✅ |
-| [Data Analyst Bootcamp](https://youtu.be/wQQR60KtnFY?si=0Iib8YF_jPJE8ej7) | Ongoing |
+| [Data Analyst Bootcamp](https://youtu.be/wQQR60KtnFY?si=0Iib8YF_jPJE8ej7) | ⬜ |
 | [Tiktok DS](https://youtu.be/E6B3uWF-V7w?si=zNCWVV6fai5ZFjQk) | ⬜ |
-| [Data Engineering](https://youtu.be/PHsC_t0j1dU?si=pcmIosfcWocLXoQY) | ⬜ |
+| [Data Engineering](https://youtu.be/PHsC_t0j1dU?si=pcmIosfcWocLXoQY) | Ongoing |
 
 ## Machine Learning
 | Source | Completed |
