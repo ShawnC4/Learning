@@ -16,7 +16,7 @@ Learning materials
 | ------------- | ------------- |
 | [Roadmap](https://neetcode.io/roadmap) |  |
 | Hackerrank: 1 week preparation kit  | ✅  |
-| [Hackerank: 1 month preparation kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit)  | Ongoing  |
+| [Hackerank: 1 month preparation kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit)  | ⬜ |
 | [NeetCode: neetcode 150](https://neetcode.io/roadmap) | Ongoing |
 | [DataLemur DS qns](https://datalemur.com/questions) | ⬜ |
 
@@ -63,7 +63,7 @@ Learning materials
 ## Courses
 | Links | Completed |
 | ---------- | ---------- |
-| [Microservice System Design](https://youtu.be/hmkF77F9TLw?si=c4gjTQ0Tya2nxc4g) | ⬜ | 
+| [Microservice System Design](https://youtu.be/hmkF77F9TLw?si=c4gjTQ0Tya2nxc4g) | Ongoing | 
 
 ## Research Papers GenAI
 | Paper | Read |
