@@ -19,6 +19,7 @@ Learning materials
 | [Hackerank: 1 month preparation kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit)  | ⬜ |
 | [NeetCode: neetcode 150](https://neetcode.io/roadmap) | Ongoing |
 | [DataLemur DS qns](https://datalemur.com/questions) | ⬜ |
+| [Codility Lessons](https://app.codility.com/programmers/lessons) | ⬜ |
 
 ## Data Science
 | Link | Completed |
